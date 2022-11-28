@@ -1,0 +1,2 @@
+git操作：
+git remote add 名字 远程仓库地址->建立远程连接
